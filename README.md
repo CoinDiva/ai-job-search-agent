@@ -1,6 +1,6 @@
 # ai-job-search-agent
 # AI Job Search Agent (ChatGPT)
-
+Project URL: https://github.com/CoinDiva/ai-job-search-agent
 A prompt-driven “AI agent” that helps identify high-fit remote AI roles and generates application-ready outputs: fit score, Apply/Strong Apply/Stretch/Skip recommendation, ATS keywords, tailored resume bullets, LinkedIn outreach, cover letter opening, and interview prep questions.
 
 > Built as a Project Management + GenAI workflow project. Tool-agnostic: works in ChatGPT, Claude, or Gemini.

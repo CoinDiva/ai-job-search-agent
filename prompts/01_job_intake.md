@@ -1,4 +1,4 @@
-# Prompt 01 — Job Intake (Input Normalizer)
+# Prompt 01: Job Intake (Input Normalizer)
 
 **Goal:** Convert any job post into a clean, structured intake that the agent can score and generate assets from.
 

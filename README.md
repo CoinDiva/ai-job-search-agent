@@ -1,6 +1,5 @@
-# ai-job-search-agent
-# AI Job Search Agent (ChatGPT)
-Project URL: https://github.com/CoinDiva/ai-job-search-agent
+# AI Job Search Agent
+
 A prompt-driven “AI agent” that helps identify high-fit remote AI roles and generates application-ready outputs: fit score, Apply/Strong Apply/Stretch/Skip recommendation, ATS keywords, tailored resume bullets, LinkedIn outreach, cover letter opening, and interview prep questions.
 
 > Built as a Project Management + GenAI workflow project. Tool-agnostic: works in ChatGPT, Claude, or Gemini.
@@ -47,15 +46,15 @@ For any job description, the agent returns:
 
 ## Repo Contents
 
-- `/prompts` — copy/paste prompt templates for each step
-- `/examples` — sample job descriptions + generated outputs
-- `/templates` — tracker templates (CSV) and project overview text
+- `/prompts`: copy/paste prompt templates for each step
+- `/examples`: sample job descriptions + generated outputs
+- `/templates`: tracker templates (CSV) and project overview text
 
 ---
 
 ## How To Use (Fast)
 
-### Step 1 — Copy the prompts
+### Step 1: Copy the prompts
 Open the `/prompts` folder and run prompts in order:
 
 1) `01_job_intake.md`  
@@ -66,10 +65,10 @@ Open the `/prompts` folder and run prompts in order:
 6) `06_interview_questions.md`  
 7) `07_daily_scan_workflow.md` (optional)
 
-### Step 2 — Paste a job description
+### Step 2: Paste a job description
 Paste the full job description into the agent along with your resume highlights (or a link to your resume).
 
-### Step 3 — Save outputs
+### Step 3: Save outputs
 Paste final outputs into your tracker (see `/templates/scoring_sheet_template.csv`) and save the role outcome.
 
 ---
@@ -121,11 +120,11 @@ Paste final outputs into your tracker (see `/templates/scoring_sheet_template.cs
 
 ## License
 
-No license currently. Add one if you want others to reuse the framework.
+Personal portfolio project. Contact me before reusing the framework.
 
 ---
 
 ## Built By
 
-Beth Silverberg — AI Adoption + GTM Partnerships  
+Beth Silverberg | B2B Business Development, Partnerships, AI Adoption and GTM  
 LinkedIn: https://www.linkedin.com/in/bethrobyn/
